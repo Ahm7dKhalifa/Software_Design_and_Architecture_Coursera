@@ -1,0 +1,6 @@
+think of every problem or any thing in your software as object.
+-------------------
+ It is a way of keeping your code organized, flexible and reusable. 
+It keeps code organized by having related details and specific functions in distinct, easy to find places. 
+This creates flexibility because you can easily change details in a modular way without affecting the rest of the code. 
+You can also reuse code and keep your program simple.

@@ -1,0 +1,6 @@
+You've also learned how CRC cards can be used for prototyping and simulation. 
+This allows you to reveal shortcomings in the requirements or design.
+ Again, CRC cards are just a technique for representing candidate components, their responsibilities and connections.
+ Using note cards won't guarantee a great speech and you still need to be experienced in speech writing to be able to arrange your talking points properly.
+ Similarly, you still need to be knowledgeable of various design techniques in order to define your CRC cards and form your design properly.
+ Throughout the rest of this specialization, we will discuss various techniques so you can design more effectively.
