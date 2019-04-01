@@ -1,0 +1,96 @@
+
+
+========================================
+1.- what is user stories ?
+  - how to write a good user stories ?
+  - Who writes user stories ? 
+========================================
+#q/a
+1-https://searchsoftwarequality.techtarget.com/definition/user-story
+2-https://www.mountaingoatsoftware.com/agile/user-stories
+3-https://www.atlassian.com/agile/project-management/user-stories
+4-https://www.atlassian.com/agile/project-management/epics
+5-https://www.atlassian.com/agile/project-management/epics-stories-themes
+
+#coursera/pdf
+
+-epics :
+* big user story can be broken down into a number of smaller stories.
+* a series of related and interdependent stories makes up an epic
+==========================================
+2.what is Software design
+==========================================
+#q/a
+1-https://en.wikipedia.org/wiki/Software_design
+2-https://www.quora.com/What-is-software-design
+3-https://www.tutorialspoint.com/software_engineering/software_design_basics.htm
+==========================================
+3.software design -vs- software architecture
+==========================================
+#q/a
+1-https://stackoverflow.com/questions/704855/software-design-vs-software-architecture
+2-https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830
+3-https://www.tutorialspoint.com/software_architecture_design/introduction.htm
+4-https://www.youtube.com/watch?v=yCUQuX819_8
+5-https://www.synopsys.com/software-integrity/resources/knowledge-database/software-architecture.html
+6-https://en.wikipedia.org/wiki/Software_architecture
+==========================================
+4.Software Design Levels
+==========================================
+#q/a
+1-https://www.tutorialspoint.com/software_engineering/software_design_basics.htm
+
+#coursera/pdf
+
+==========================================
+5.software design strategies and Approaches
+==========================================
+#q/a
+1-https://www.tutorialspoint.com/software_engineering/software_design_strategies.htm
+2-http://www.professionalqa.com/strategies-for-software-design
+3-https://www.slideshare.net/Amitgehu/strategy-of-software-design
+==========================================
+6.how to convert requirements to software design
+==========================================
+#q/a
+1-https://medium.com/omarelgabrys-blog/software-engineering-process-activities-part-3-ca1ef6818fd6
+2-http://www.yacoset.com/Home/how-to-design-a-computer-program
+3-https://pt.slideshare.net/sommerville-videos/fundamental-software-engineering-activities
+4-https://www.onlineclassnotes.com/2016/08/explain-software-design-implementation-activity.html
+5-https://slideplayer.com/slide/8160529
+6-https://www.slideshare.net/corb201/computer-systems-input-process-output
+7-https://stackoverflow.com/questions/6518718/sequence-of-uml-diagrams
+8-https://softwareengineering.stackexchange.com/questions/152301/what-is-the-order-of-diagram-drawing-in-a-design
+#coursera/pdf
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================

@@ -1,0 +1,106 @@
+
+
+========================================
+1.what is oop ?
+========================================
+#q/a
+1-https://en.wikipedia.org/wiki/Object-oriented_programming
+
+==========================================
+2.what is class ?
+==========================================
+1- template or factory which create and define the objects
+
+==========================================
+3.what is object ?
+==========================================
+1- "objects" , which can contain data, in the form of fields (often known as attributes), 
+and code, in the form of procedures (often known as methods). 
+2- objects are instances/members/samples/units of the classes 
+
+human is a class 
+ahmed , adam , nancy are objects of this class
+
+==========================================
+4.Instance Variables
+==========================================
+Variables defined inside a class corresponding to data
+present in each instance
+• Also called fields or member variables
+• Attributes
+—Simple data
+—E.g. name, dateOfBirth
+• Associations
+—Relationships to other important classes
+—E.g. supervisor, coursesTaken
+—More on these in Chapter 5
+
+==========================================
+5.Class variables
+==========================================
+A class variable’s value is shared by all instances of a class.
+• Also called a static variable
+• If one instance sets the value of a class variable, then all
+the other instances see the same changed value.
+• Class variables are useful for:
+—Default or ‘constant’ values (e.g. PI)
+—Lookup tables and similar structures
+Caution: do not overuse
+
+#c# folder
+1-https://www.geeksforgeeks.org/static-keyword-in-c-sharp/
+==========================================
+6.Methods, Operations 
+==========================================
+-functions which the objects of this class can done
+
+==========================================
+7.Polymorphism
+==========================================
+**the same operation may be performed 
+in different ways 
+in different classes.
+**Several different classes can have methods with the
+same name
+—They implement the same abstract operation in ways
+suitable to each class
+—E.g. calculating area in a rectangle is done
+differently from in a circle
+
+#folder 1 --> csharp_polymorphism
+-----
+-types of polymorphism
+-Overloading vs OverRiding
+-abstract classes and virtual functions with override
+1- https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm
+2-https://www.tutorialspoint.com/csharp/csharp_operator_overloading.htm
+3-https://stackoverflow.com/questions/673721/overloading-and-overriding
+4-https://www.c-sharpcorner.com/blogs/difference-between-method-overloading-and-method-overriding
+5-https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================

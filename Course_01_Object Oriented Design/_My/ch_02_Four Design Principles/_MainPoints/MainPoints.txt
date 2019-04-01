@@ -1,0 +1,95 @@
+
+
+========================================
+1.Abstraction 
+========================================
+#coursera/pdf
+
+#q/a
+1-https://stackify.com/oop-concept-abstraction/
+2-https://www.guru99.com/java-data-abstraction.htm
+3-https://dzone.com/articles/when-to-use-abstract-class-and-intreface
+
+# c# folder :
+1-https://csharp-video-tutorials.blogspot.com/2013/09/part-3-why-and-when-should-we-use.html
+Abstract-Class-versus-Interface :
+2-https://www.codeproject.com/Articles/11155/Abstract-Class-versus-Interface
+3-https://dzone.com/articles/when-to-use-abstract-class-and-intreface
+==========================================
+2.Encapsulation
+==========================================
+#coursera/pdf
+
+#q/a
+1-https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/
+2-https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
+3-https://www.guru99.com/java-oops-encapsulation.html
+
+# c# folder :
+1-https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
+2-https://www.c-sharpcorner.com/uploadfile/puranindia/what-are-access-modifiers-in-C-Sharp/
+3-https://code-maze.com/csharp-basics-access-modifiers/
+==========================================
+3.Decomposition
+==========================================
+#coursera/pdf
+
+==========================================
+4.Generalization
+==========================================
+#coursera/pdf
+
+#c# folder :
+-----------
+*Not all members of a base class are inherited by derived classes. 
+*access modifiers in Inheritance
+*Inheritance and an "is a" relationship
+*base keyword
+1-https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance
+2-https://www.geeksforgeeks.org/c-sharp-inheritance/
+3-https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/base
+4-https://csharp-video-tutorials.blogspot.com/2013/08/part-21-inheritance.html
+5-https://www.javatpoint.com/c-sharp-base
+6-https://stackoverflow.com/questions/8170020/what-actually-base-keyword-does-in-constructor-initialization
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
