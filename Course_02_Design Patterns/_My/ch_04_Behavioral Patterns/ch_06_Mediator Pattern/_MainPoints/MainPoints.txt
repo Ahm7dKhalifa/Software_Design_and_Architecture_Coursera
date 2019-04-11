@@ -1,0 +1,78 @@
+
+
+========================================
+1. what is Mediator Pattern ? when to use ?
+  - examples
+  - its componants
+========================================
+#q/a
+1-https://www.tutorialspoint.com/design_pattern/mediator_pattern.htm
+2-https://refactoring.guru/design-patterns/mediator
+3-https://www.journaldev.com/1730/mediator-design-pattern-java
+4-https://www.oodesign.com/mediator-pattern.html
+5-https://en.wikipedia.org/wiki/Mediator_pattern
+
+
+==========================================
+2.steps:
+==========================================
+1-define mediator interface : 
+contain methods to communication a set of objects
+2-implement mediator 
+3-define componant interface or abstruct class
+4-implement componant classes :
+objects that want to communication with each other
+5-componant classes should refer or contain to the mediator 
+6-mediator should refer or contain to all componant
+==========================================
+3.
+==========================================
+
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
