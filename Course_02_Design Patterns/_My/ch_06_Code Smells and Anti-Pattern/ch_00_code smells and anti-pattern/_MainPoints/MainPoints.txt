@@ -1,0 +1,71 @@
+
+
+========================================
+1.what is code smell ?
+========================================
+#q/a
+1- https://en.wikipedia.org/wiki/Code_smell
+2- https://www.quora.com/What-is-code-smell
+3- https://martinfowler.com/bliki/CodeSmell.html
+==========================================
+2.list of code smells
+==========================================
+#q/a
+1- https://sourcemaking.com/refactoring/smells
+2- https://apiumhub.com/tech-blog-barcelona/code-smells/
+3- https://www.sihui.io/code-smell-cheat-sheet/
+==========================================
+3.what is anti-patterns
+==========================================
+#q/a
+1- https://en.wikipedia.org/wiki/Anti-pattern
+2- https://stackoverflow.com/questions/980601/what-is-an-anti-pattern
+3- https://www.quora.com/What-are-antipatterns
+==========================================
+4.list of anti-patterns
+==========================================
+#q/a -> 3.1
+
+==========================================
+5.code smells and anti-pattern
+==========================================
+#q/a
+1- https://softwareengineering.stackexchange.com/questions/350085/what-is-the-difference-between-code-smells-and-anti-patterns
+2- https://www.quora.com/What-is-the-difference-between-Code-Smells-and-Anti-patterns
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
